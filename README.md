@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0572-subtree-of-another-tree) |
+| [1609-even-odd-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0572-subtree-of-another-tree) |
+| [1609-even-odd-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1609-even-odd-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0404-sum-of-left-leaves) |
+| [1609-even-odd-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1609-even-odd-tree) |
 ## String Matching
 |  |
 | ------- |
