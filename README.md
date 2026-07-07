@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0005-longest-palindromic-substring) |
 | [0572-subtree-of-another-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0113-path-sum-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
