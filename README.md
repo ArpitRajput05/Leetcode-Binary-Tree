@@ -88,8 +88,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0005-longest-palindromic-substring) |
+| [0876-middle-of-the-linked-list](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
