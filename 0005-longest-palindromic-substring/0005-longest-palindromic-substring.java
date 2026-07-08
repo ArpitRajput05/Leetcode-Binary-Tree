@@ -3,7 +3,7 @@ class Solution {
     public String longestPalindrome(String s) {
 
         String ans = "";
-
+        // code for subset or substring an power set in strings 
         for (int i = 0; i < s.length(); i++) {
 
             for (int j = i; j < s.length(); j++) {
