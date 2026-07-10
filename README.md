@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0092-reverse-linked-list-ii) |
 | [0234-palindrome-linked-list](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
