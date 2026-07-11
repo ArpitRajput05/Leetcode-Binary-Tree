@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0572-subtree-of-another-tree) |
 | [1609-even-odd-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1609-even-odd-tree) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0144-binary-tree-preorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0572-subtree-of-another-tree) |
 | [1609-even-odd-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1609-even-odd-tree) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0005-longest-palindromic-substring) |
+| [0257-binary-tree-paths](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0257-binary-tree-paths) |
 ## Two Pointers
 |  |
 | ------- |
