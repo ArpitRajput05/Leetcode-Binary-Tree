@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0005-longest-palindromic-substring) |
 | [0257-binary-tree-paths](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0257-binary-tree-paths) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0572-subtree-of-another-tree) |
 | [0844-backspace-string-compare](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0844-backspace-string-compare) |
 ## Hash Function
@@ -146,8 +147,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0209-minimum-size-subarray-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
