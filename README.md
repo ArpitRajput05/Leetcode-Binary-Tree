@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0977-squares-of-a-sorted-array) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 ## Hash Table
 |  |
 | ------- |
