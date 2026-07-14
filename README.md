@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0905-sort-array-by-parity) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0930-binary-subarrays-with-sum) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0974-subarray-sums-divisible-by-k) |
