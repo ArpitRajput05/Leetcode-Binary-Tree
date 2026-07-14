@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0015-3sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0977-squares-of-a-sorted-array) |
@@ -155,13 +156,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0523-continuous-subarray-sum) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0303-range-sum-query-immutable) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
