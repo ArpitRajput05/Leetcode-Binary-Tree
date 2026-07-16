@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -193,5 +194,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
