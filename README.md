@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0234-palindrome-linked-list) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0035-search-insert-position) |
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0278-first-bad-version) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
