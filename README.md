@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0014-longest-common-prefix) |
 | [0227-basic-calculator-ii](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0035-search-insert-position) |
@@ -233,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0042-trapping-rain-water) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
