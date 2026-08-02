@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0234-palindrome-linked-list) |
 ## Array
 |  |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0227-basic-calculator-ii](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0227-basic-calculator-ii) |
