@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0049-group-anagrams) |
 | [0227-basic-calculator-ii](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0257-binary-tree-paths) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0303-range-sum-query-immutable) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0049-group-anagrams) |
 | [0905-sort-array-by-parity](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0049-group-anagrams) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0525-contiguous-array) |
