@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0049-group-anagrams) |
 | [0905-sort-array-by-parity](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0977-squares-of-a-sorted-array) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0011-container-with-most-water) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Monotonic Stack
 |  |
 | ------- |
