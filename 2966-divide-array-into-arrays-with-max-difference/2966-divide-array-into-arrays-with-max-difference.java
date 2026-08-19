@@ -8,11 +8,13 @@ class Solution {
             if(nums[i+2]-nums[i]>k){
                 return new int[0][0];
             }
+            else{
             res[row][0] = nums[i];
             res[row][1] = nums[i + 1];
             res[row][2] = nums[i + 2];
-
+          
             row++;
+            }
         }
         return res;
     }
