@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0572-subtree-of-another-tree) |
 | [0844-backspace-string-compare](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0844-backspace-string-compare) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1624-largest-substring-between-two-equal-characters) |
 ## Hash Function
 |  |
 | ------- |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1624-largest-substring-between-two-equal-characters) |
 ## Design
 |  |
 | ------- |
