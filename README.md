@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0049-group-anagrams) |
 | [0227-basic-calculator-ii](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0257-binary-tree-paths) |
+| [0387-first-unique-character-in-a-string](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0572-subtree-of-another-tree) |
 | [0844-backspace-string-compare](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0844-backspace-string-compare) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0525-contiguous-array) |
@@ -254,4 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
