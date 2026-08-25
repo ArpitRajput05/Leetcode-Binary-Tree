@@ -19,30 +19,33 @@ class Solution {
                       ArrayList<Integer> current,
                       ArrayList<List<Integer>> result) {
 
-       
-        ArrayList<Integer> temp = new ArrayList<>();
-
-        for (int x : current) {
-            temp.add(x);
-        }
-
-        result.add(temp);
-
         
-        for (int i = index; i < nums.length; i++) {
+        if (index == nums.length) {
+
+            ArrayList<Integer> temp = new ArrayList<>();
 
            
-            if (i > index && nums[i] == nums[i - 1]) {
-                continue;
+            for (int x : current) {
+                temp.add(x);
             }
 
-      
-            current.add(nums[i]);
+           
+            if (!result.contains(temp)) {
+                result.add(temp);
+            }
 
-            solve(nums, i + 1, current, result);
-
-            
-            current.remove(current.size() - 1);
+            return;
         }
+
+      
+        current.add(nums[index]);
+
+        solve(nums, index + 1, current, result);
+
+        
+        current.remove(current.size() - 1);
+
+   
+        solve(nums, index + 1, current, result);
     }
 }
