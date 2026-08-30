@@ -13,14 +13,13 @@
  *     }
  * }
  */
-class Solution {//mysolution
-
+class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
       List<List<Integer>> result=new ArrayList<>();
       int h=  height(root);
-      int levels=h+1;
-      if(root==null) return result;
-      for(int i = 1; i <= levels; i++) {
+     // int levels=h+1;
+      if(root==null)return result;
+      for(int i = 1; i <= h; i++) {
           
           List<Integer> ans = new ArrayList<>();
 
@@ -38,7 +37,7 @@ class Solution {//mysolution
 
         if(root == null)
             return 0;
-        if(root.left==null && root.right==null) return 0;
+       // if(root.left==null && root.right==null) return 0;
 
         return 1 + Math.max(height(root.left), height(root.right));
     }
