@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0572-subtree-of-another-tree) |
 | [1609-even-odd-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1609-even-odd-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0572-subtree-of-another-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0404-sum-of-left-leaves) |
 | [0572-subtree-of-another-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0572-subtree-of-another-tree) |
 | [1609-even-odd-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1609-even-odd-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
