@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0223-rectangle-area](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0523-continuous-subarray-sum) |
@@ -305,5 +306,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
