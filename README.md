@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/2094-finding-3-digit-even-numbers) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0836-rectangle-overlap) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3871-count-commas-in-range-ii](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/3871-count-commas-in-range-ii) |
 ## Interactive
 |  |
@@ -308,4 +310,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0223-rectangle-area](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0836-rectangle-overlap) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 <!---LeetCode Topics End-->
