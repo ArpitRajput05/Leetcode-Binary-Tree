@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0231-power-of-two) |
 | [0523-continuous-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0523-continuous-subarray-sum) |
+| [0836-rectangle-overlap](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0836-rectangle-overlap) |
 | [3871-count-commas-in-range-ii](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/3871-count-commas-in-range-ii) |
 ## Interactive
 |  |
@@ -301,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
