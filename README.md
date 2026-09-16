@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0905-sort-array-by-parity) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0303-range-sum-query-immutable) |
+| [0455-assign-cookies](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0455-assign-cookies) |
 | [0523-continuous-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0560-subarray-sum-equals-k) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0049-group-anagrams) |
+| [0455-assign-cookies](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0977-squares-of-a-sorted-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/2094-finding-3-digit-even-numbers) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0011-container-with-most-water) |
+| [0455-assign-cookies](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0455-assign-cookies) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Monotonic Stack
 |  |
@@ -311,4 +315,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0836-rectangle-overlap) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
