@@ -2,67 +2,42 @@ class Solution {
     public int minSumOfLengths(int[] arr, int target) {
 
         int n = arr.length;
-       
-        HashMap<Integer,Integer>map=new HashMap<>();
-        int i = 0;
-        int j = 0;
+        int[] minLen = new int[n];
+
+        Arrays.fill(minLen, Integer.MAX_VALUE);
+
+        int left = 0;
+        int right = 0;
         int sum = 0;
 
-        int min = Integer.MAX_VALUE;
-      
-        int count=0;
-        int ansmin=0;
+        int best = Integer.MAX_VALUE;
+        int ans = Integer.MAX_VALUE;
 
-        while (j < n) {
+        while (right < n) {
 
-            sum += arr[j];
+            sum += arr[right];
 
             while (sum > target) {
-                sum -= arr[i];
-                i++;
+                sum -= arr[left];
+                left++;
             }
 
             if (sum == target) {
 
-                int len = j-i + 1;
+                int len = right - left + 1;
 
-                
+                if (left > 0 && minLen[left - 1] != Integer.MAX_VALUE) {
+                    ans = Math.min(ans, len + minLen[left - 1]);
+                }
 
-                min = Math.min(min, len);
-                map.put(len,map.getOrDefault(len,0)+1);
-                
+                best = Math.min(best, len);
             }
 
+            minLen[right] = best;
 
-            j++;
+            right++;
         }
-       int smallest = Integer.MAX_VALUE;
-       int secondSmallest = Integer.MAX_VALUE;
 
-      for (int key : map.keySet()) {
-
-                if (key < smallest) {
-                    secondSmallest = smallest;
-                    smallest = key;
-                 }
-               else if (key < secondSmallest && key != smallest) {
-                        secondSmallest = key;
-                }
-        }
-            int res=0;
-            for(int val:map.values()){
-               ansmin=map.get(smallest);
-                
-                if(ansmin==2) return ansmin;
-                else if(val==secondSmallest){
-                     res=ansmin+val;
-                     return res;
-                }
-            }
-            
-        
-
-
-        return -1;
+        return ans == Integer.MAX_VALUE ? -1 : ans;
     }
 }
