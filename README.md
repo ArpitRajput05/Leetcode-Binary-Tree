@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0977-squares-of-a-sorted-array) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0992-subarrays-with-k-different-integers) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0992-subarrays-with-k-different-integers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Prefix Sum
 |  |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0992-subarrays-with-k-different-integers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/2094-finding-3-digit-even-numbers) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0387-first-unique-character-in-a-string) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0992-subarrays-with-k-different-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
