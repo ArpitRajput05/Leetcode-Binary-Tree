@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0977-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/2094-finding-3-digit-even-numbers) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0977-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/2094-finding-3-digit-even-numbers) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Simulation
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0455-assign-cookies) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 ## Monotonic Stack
 |  |
