@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0844-backspace-string-compare) |
+| [0962-maximum-width-ramp](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0962-maximum-width-ramp) |
 ## Tree
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0905-sort-array-by-parity) |
+| [0962-maximum-width-ramp](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Dynamic Programming
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0930-binary-subarrays-with-sum) |
+| [0962-maximum-width-ramp](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0962-maximum-width-ramp) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0992-subarrays-with-k-different-integers) |
@@ -296,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0042-trapping-rain-water) |
+| [0962-maximum-width-ramp](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0962-maximum-width-ramp) |
 ## Trie
 |  |
 | ------- |
