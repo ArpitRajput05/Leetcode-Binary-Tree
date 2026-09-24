@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Sorting
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0836-rectangle-overlap) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3871-count-commas-in-range-ii](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/3871-count-commas-in-range-ii) |
 ## Interactive
 |  |
