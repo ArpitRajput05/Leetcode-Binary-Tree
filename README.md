@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0844-backspace-string-compare) |
 | [0962-maximum-width-ramp](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0962-maximum-width-ramp) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Tree
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0572-subtree-of-another-tree) |
 | [0844-backspace-string-compare](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0844-backspace-string-compare) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1624-largest-substring-between-two-equal-characters) |
 ## Hash Function
 |  |
@@ -342,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/0455-assign-cookies) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ArpitRajput05/Leetcode-Binary-Tree/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 <!---LeetCode Topics End-->
